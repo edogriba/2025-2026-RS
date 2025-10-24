@@ -3,4 +3,4 @@ This is a fork of the official repository for the Recommender Systems course at 
 
 This repo contains the code that I wrote for the RecSys course under the folder Practice.
 
-Fo rinstallation guide visit the official github course page.
+For installation guide visit the official github course page.
